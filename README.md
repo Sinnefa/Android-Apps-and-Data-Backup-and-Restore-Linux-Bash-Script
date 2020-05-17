@@ -1,5 +1,5 @@
 # A Linux Bash Script to Fully Backup Android Apps and Data
-A comand line bash script to fully bakcup and restore an Android device (Apps+Data). It doesn't require any user action like tapping "OK" and similar. The script checks if any backup is already present and skips them if needed. Only new apps and missing data are backed up
+A comand line bash script to fully bakcup and restore an Android device (Apps+Data). It doesn't require any user action like tapping "OK" and similar. The script checks if any backup is already present and skips them if needed. Only new apps and missing data are backed up. This script will not backup messages and calls. Adding the "-shared" flash where indicated also backsup SD data.
 
 # How-to
 1) Create a new directory "MyDevice"
