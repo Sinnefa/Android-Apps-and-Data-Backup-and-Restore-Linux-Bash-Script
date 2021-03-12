@@ -1,4 +1,4 @@
-echo "This application backup and restors all Android apps and data"
+echo "This application backups and restors all Android apps and data"
 echo "It needs one parameter 'backup' or 'restore' depending on the oprations you want to perform"
 echo "DON'T TOUCH you device during any operation. If the process hangs for too long just restart this application"
 echo ""
