@@ -16,6 +16,10 @@ bash backupAndRestoreAndroidDevide.sh backup
 bash backupAndRestoreAndroidDevide.sh restore
 ```
 
-# Important notice:
+# Important Notes:
+
+The script simulates a tap on the screen to start app backup, it the coordinates are wrong edit the script.
+
 Sometimes ADB hangs, you can halt and restar the script safely.
+
 The script checks if the back-up is already present and skips it if needed.
